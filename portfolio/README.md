@@ -1,1 +1,1 @@
-This a portfolio website by Oussama Lasfar 
+This is a portfolio website by Oussama Lasfar 
